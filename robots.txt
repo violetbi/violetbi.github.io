@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://violetbi.github.io/sitemap.xml
